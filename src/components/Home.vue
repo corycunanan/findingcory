@@ -55,7 +55,7 @@
         </div>
       </div>
     </section>
-    <section class="featured-works has-text-centered">
+    <!-- <section class="featured-works has-text-centered">
       <h1 class="title title-brush">Featured Works</h1>
       <div class="container">
         <div class="columns">
@@ -102,7 +102,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
   </div>
 </template>
 
