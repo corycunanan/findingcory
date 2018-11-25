@@ -1,7 +1,7 @@
 #!/bin/zsh
 # swap out old docs folder with new dist folder
 
-echo "Hello World!"
+echo "Replacing stuff"
 
 mv docs/CNAME dist/CNAME
 
