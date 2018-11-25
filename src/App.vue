@@ -66,6 +66,9 @@ export default {
     padding-left: 3em
     padding-right: 3em
 
+  .navbar-item:hover
+    background-color: #49C6F9
+
 .footer
   margin-top: 7.5em
   background-color: #CECECE
